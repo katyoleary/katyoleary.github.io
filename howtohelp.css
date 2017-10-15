@@ -1,0 +1,76 @@
+    html {
+      height: 100%;
+    }
+    body {
+      min-width: 100%;
+      max-width: 100%;
+      height: 100%;
+      background-color: #DCFFFA ;
+      padding: 0px;
+      margin: 0px;
+      font-family: Arial;
+   }
+
+    header {
+       padding: 5px;
+       font-size: 20px;
+       text-align: center;
+       width: 100%;
+       background-color: #002687 ;
+       color: #00FA9A;
+
+
+
+}
+    nav {
+        float: left;
+        width: 100%;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    }
+    .lightblue-background {
+        background-color: #00CED1;
+    }
+    .mermaid{
+      margin-left: 170px;
+    }
+      .mermaidlist{
+        text-align:center;
+      }
+    section {
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
